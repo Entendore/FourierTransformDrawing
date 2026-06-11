@@ -37,4 +37,5 @@ dist/
 # <<< BASE RULES <<<
 
 # >>> AUTO DISCOVERED RULES >>>
+__pycache__/
 # <<< AUTO DISCOVERED RULES <<<
